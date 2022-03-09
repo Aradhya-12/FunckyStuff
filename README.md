@@ -1,2 +1,2 @@
-# FunckyStuff
+# FunckyStuffs
 Created with CodeSandbox
