@@ -1,0 +1,23 @@
+.chessboard {
+    display: grid;
+    grid-template-columns: repeat(8, 50px);
+  }
+  
+  .boxWhite {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: blanchedalmond;
+  }
+  
+  .boxBlack {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: brown;
+  }
+  
+  .highlighted {
+    background-color: lightslategray;
+  }
+  
